@@ -38,7 +38,17 @@ The goal of this project is to design and implement a custom AWS VPC that includ
 
 ## 🧠 Learning Outcomes
 By completing this project, you gain hands-on experience with:
+
+
 - Building AWS networks from scratch  
 - Implementing secure network segmentation  
-- Understanding real-world cloud networking patterns  
+- Understanding real-world cloud networking patterns
+
+## Screenshot evidence 
+
+### 1) VPC Details
+
+
+<img width="1602" height="561" alt="VPC" src="https://github.com/user-attachments/assets/b0eae099-b754-475f-97ff-bece23e0c71e" />
+
 
