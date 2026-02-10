@@ -70,6 +70,7 @@ By completing this project, you gain hands-on experience with:
 
 <img width="1550" height="270" alt="image" src="https://github.com/user-attachments/assets/65a3e4bc-60e0-4f3f-9994-b5fda0446b30" />
 
+
 ### 7) Public Route Table (IGW route + association)
 <img width="1571" height="637" alt="Public Subnet" src="https://github.com/user-attachments/assets/0917df15-ffd7-4960-be9d-16e276285459" />
 
