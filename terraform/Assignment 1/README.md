@@ -43,5 +43,36 @@ All infrastructure is deployed in the `eu-west-1` AWS region by default.
 
 ---
 
-## 📂 Project Structure
+# 🚀 Deploying WordPress on AWS using Terraform
+
+## 📌 Project Objective
+
+In this project, I used **Terraform** to provision a complete WordPress environment on AWS.
+
+The goal was to demonstrate how Infrastructure as Code (IaC) can automate the creation of cloud infrastructure and deploy a working web application without manually configuring servers.
+
+---
+
+## 🛠️ What I Built
+
+Using Terraform, I:
+
+- Configured the **AWS provider**
+- Created a **Security Group** to allow SSH, HTTP, and HTTPS traffic
+- Dynamically retrieved the latest **Ubuntu AMI**
+- Launched an **EC2 instance**
+- Injected a **user data script** to automatically:
+  - Install Apache
+  - Install PHP
+  - Install MariaDB (MySQL)
+  - Download and configure WordPress
+- Generated a working **public endpoint**
+- Output the public IP and URL directly from Terraform
+
+Everything was provisioned and configured using code — no manual setup inside the EC2 instance.
+
+---
+
+
+
 
