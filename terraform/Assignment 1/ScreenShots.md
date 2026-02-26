@@ -14,4 +14,9 @@
 
 <img width="1212" height="555" alt="variable tf" src="https://github.com/user-attachments/assets/facefcba-5f31-4c38-b060-d89a11d0074b" />
 
+# WordPress
+
+<img width="1147" height="901" alt="image" src="https://github.com/user-attachments/assets/ef3880be-e32e-49c1-9f68-418af68975fa" />
+
+
 
