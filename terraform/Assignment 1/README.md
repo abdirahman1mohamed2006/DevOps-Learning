@@ -71,6 +71,8 @@ Using Terraform, I:
 
 Everything was provisioned and configured using code — no manual setup inside the EC2 instance.
 
+
+
 ---
 
 
