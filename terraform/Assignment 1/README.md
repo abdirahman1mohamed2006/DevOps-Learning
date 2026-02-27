@@ -6,7 +6,6 @@ The objective of this project is to use **Terraform (Infrastructure as Code)** t
 
 This project demonstrates how Terraform provisions and manages real cloud infrastructure end-to-end without manually configuring resources in the AWS Console.
 
----
 
 ## 🏗️ Infrastructure Overview
 
@@ -24,7 +23,7 @@ This Terraform configuration provisions:
 
 No manual server setup was performed — everything is automated.
 
----
+
 
 ## 🧠 Architecture
 
